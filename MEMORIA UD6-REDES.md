@@ -519,7 +519,7 @@ La red no puede soportar la carga total.
 *Solución recomendada:*
 **Reducir bitrate o usar bitrate adaptativo**, manteniendo la calidad sin saturar la red.
 
-#CONVERSIONES:
+# CONVERSIONES:
 1 Gbps = 1000 Mbps.
 1 MB = 1024² bytes
 Bitrate: 1 Mbps = 1 megabit por segundo = 1,000,000 bits/s
@@ -549,5 +549,6 @@ SD (480p)	1 Mbps	~450 MB / hora
 HD (720p)	3 Mbps	~1.35 GB / hora
 Full HD (1080p)	5-6 Mbps	~2.5 GB / hora
 4K (UHD)	25 Mbps	~11 GB / hora
+
 
 
