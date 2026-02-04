@@ -1,6 +1,4 @@
 
-title: "Resumen UD6; REDES"
-author: "Belinda Villalta"
 # Descarga directa vs Streaming
 
 ## Descarga directa
@@ -551,4 +549,5 @@ SD (480p)	1 Mbps	~450 MB / hora
 HD (720p)	3 Mbps	~1.35 GB / hora
 Full HD (1080p)	5-6 Mbps	~2.5 GB / hora
 4K (UHD)	25 Mbps	~11 GB / hora
+
 
